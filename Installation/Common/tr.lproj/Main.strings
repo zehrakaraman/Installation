@@ -1,0 +1,21 @@
+
+/* Class = "UIBarButtonItem"; title = "Exit"; ObjectID = "G0L-r6-Aud"; */
+"G0L-r6-Aud.title" = "Çıkış";
+
+/* Class = "UILabel"; text = "Welcome back👋🏽"; ObjectID = "S9V-eg-JhU"; */
+"S9V-eg-JhU.text" = "Tekrar hoşgeldiniz👋🏽";
+
+/* Class = "UILabel"; text = "Enter your email and password"; ObjectID = "TDi-ev-SCL"; */
+"TDi-ev-SCL.text" = "E-mail ve parolanızı giriniz";
+
+/* Class = "UILabel"; text = "Remember me"; ObjectID = "YeG-qF-rS8"; */
+"YeG-qF-rS8.text" = "Beni hatırla";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "cVP-Mk-SVP"; */
+"cVP-Mk-SVP.placeholder" = "Parola";
+
+/* Class = "UITextField"; placeholder = "E-mail"; ObjectID = "oiF-sg-hi2"; */
+"oiF-sg-hi2.placeholder" = "E-mail";
+
+/* Class = "UIButton"; configuration.title = "Login"; ObjectID = "vaq-yL-H9h"; */
+"vaq-yL-H9h.configuration.title" = "Giriş";
